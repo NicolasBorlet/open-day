@@ -1,11 +1,11 @@
-import js from "@eslint/js";
-import globals from "globals";
-import tsParser from "@typescript-eslint/parser";
+import js from '@eslint/js';
+import globals from 'globals';
+import tsParser from '@typescript-eslint/parser';
 
 export default [
-  { ignores: ["dist/**"] },
+  { ignores: ['dist/**'] },
   {
-    files: ["**/*.{ts,tsx,js,jsx}"],
+    files: ['**/*.{ts,tsx,js,jsx}'],
     languageOptions: {
       parser: tsParser,
       globals: {
@@ -20,8 +20,8 @@ export default [
     },
     rules: {
       // Règles minimales
-      "no-unused-vars": "warn",
-      "no-undef": "error",
+      'no-unused-vars': 'warn',
+      'no-undef': 'error',
     },
   },
 ];

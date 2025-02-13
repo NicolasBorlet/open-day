@@ -31,6 +31,7 @@ Nous sommes ravis que vous souhaitiez contribuer à ce projet ! Voici comment pr
 ### Signalement de Bugs
 
 Si vous trouvez un bug, veuillez créer une issue en utilisant le template de bug report et inclure :
+
 - Une description claire du bug
 - Les étapes pour reproduire
 - Le comportement attendu
@@ -39,6 +40,7 @@ Si vous trouvez un bug, veuillez créer une issue en utilisant le template de bu
 ### Suggestions de Fonctionnalités
 
 Les suggestions sont toujours les bienvenues ! Pour proposer une nouvelle fonctionnalité :
+
 1. Vérifiez qu'elle n'existe pas déjà dans les issues
 2. Créez une nouvelle issue avec le template de feature request
 3. Décrivez clairement la fonctionnalité et son cas d'utilisation

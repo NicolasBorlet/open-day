@@ -17,10 +17,12 @@
 ## Bonnes Pratiques
 
 1. **Tests**
+
    - Écrire des tests pour chaque nouvelle fonctionnalité
    - Maintenir une couverture de tests > 80%
 
 2. **Performance**
+
    - Optimiser les images
    - Minimiser les re-renders
    - Utiliser la compression gzip

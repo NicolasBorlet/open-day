@@ -17,6 +17,7 @@
 Format : `type(scope): description`
 
 Types :
+
 - `feat` : nouvelle fonctionnalité
 - `fix` : correction de bug
 - `docs` : documentation
